@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Spinner2Activity</string>
+    <string name="selecCollege">Select College</string>
+    <string-array name="college">
+        <item> IIMT </item>
+        <item> GNIOT </item>
+        <item> PIIT</item>
+        <item> Galgotia</item>
+        <item> Amity</item>
+        <item>GL Bajaj</item>
+        <item>other</item>
+    </string-array>
+</resources>
